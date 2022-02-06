@@ -1,0 +1,9 @@
+https://s3-us-west-2.amazonaws.com/dl.fbaipublicfiles.com/LVIS/lvis_v1_train.json.zip
+https://s3-us-west-2.amazonaws.com/dl.fbaipublicfiles.com/LVIS/lvis_v1_val.json.zip
+https://s3-us-west-2.amazonaws.com/dl.fbaipublicfiles.com/LVIS/lvis_v1_image_info_test_challenge.json.zip
+https://s3-us-west-2.amazonaws.com/dl.fbaipublicfiles.com/LVIS/lvis_v1_image_info_test_dev.json.zip
+http://images.cocodataset.org/zips/train2017.zip
+http://images.cocodataset.org/zips/val2017.zip
+http://images.cocodataset.org/zips/test2017.zip
+http://images.cocodataset.org/zips/test2017.zip
+
